@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ef54830-1b9f-4c8b-a495-04966123d607" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/luffy_django$s2.coverage" NAME="s2 Coverage Results" MODIFIED="1528281617120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/bandicam/day111 redis和微信和路飞购物/day111课上所有/s9day111" />
+    <SUITE FILE_PATH="coverage/luffy_django$s1.coverage" NAME="s1 Coverage Results" MODIFIED="1528276564632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/bandicam/day111 redis和微信和路飞购物/day111课上所有/s9day111" />
+    <SUITE FILE_PATH="coverage/luffy_django$x.coverage" NAME="x Coverage Results" MODIFIED="1528347322300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/luffy_django$redis.coverage" NAME="redis测试 Coverage Results" MODIFIED="1539704239258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="order.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/views/order.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="45" lean-forward="false" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+              <folding>
+                <element signature="e#372#2713#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="555" column="0" lean-forward="true" selection-start-line="555" selection-start-column="0" selection-end-line="555" selection-end-column="0" />
+              <folding>
+                <element signature="e#373#567#0" expanded="false" />
+                <element signature="e#487#510#0" expanded="false" />
+                <element signature="e#536#567#0" expanded="false" />
+                <element signature="e#613#862#0" expanded="false" />
+                <element signature="e#782#805#0" expanded="false" />
+                <element signature="e#831#862#0" expanded="false" />
+                <element signature="e#903#1906#0" expanded="false" />
+                <element signature="e#1541#1580#0" expanded="false" />
+                <element signature="e#1834#1850#0" expanded="false" />
+                <element signature="e#1876#1906#0" expanded="false" />
+                <element signature="e#1942#2462#0" expanded="false" />
+                <element signature="e#2388#2404#0" expanded="false" />
+                <element signature="e#2430#2462#0" expanded="false" />
+                <element signature="e#2502#2881#0" expanded="false" />
+                <element signature="e#2773#2822#0" expanded="false" />
+                <element signature="e#2848#2881#0" expanded="false" />
+                <element signature="e#2916#4457#0" expanded="false" />
+                <element signature="e#4076#4093#0" expanded="false" />
+                <element signature="e#4334#4395#0" expanded="false" />
+                <element signature="e#4421#4457#0" expanded="false" />
+                <element signature="e#4497#5333#0" expanded="false" />
+                <element signature="e#5246#5271#0" expanded="false" />
+                <element signature="e#5297#5333#0" expanded="false" />
+                <element signature="e#5380#5891#0" expanded="false" />
+                <element signature="e#5712#5765#0" expanded="false" />
+                <element signature="e#5791#5891#0" expanded="false" />
+                <element signature="e#5933#6335#0" expanded="false" />
+                <element signature="e#6200#6224#0" expanded="false" />
+                <element signature="e#6250#6335#0" expanded="false" />
+                <element signature="e#6377#6920#0" expanded="false" />
+                <element signature="e#6746#6826#0" expanded="false" />
+                <element signature="e#6859#6920#0" expanded="false" />
+                <element signature="e#6962#7925#0" expanded="false" />
+                <element signature="e#7766#7850#0" expanded="false" />
+                <element signature="e#7883#7925#0" expanded="false" />
+                <element signature="e#7962#8932#0" expanded="false" />
+                <element signature="e#8773#8852#0" expanded="false" />
+                <element signature="e#8885#8930#0" expanded="false" />
+                <element signature="e#8932#8933#0" expanded="false" />
+                <element signature="e#11210#12188#0" expanded="false" />
+                <element signature="e#11491#11801#0" expanded="false" />
+                <element signature="e#11963#12067#0" expanded="false" />
+                <element signature="e#12100#12186#0" expanded="false" />
+                <element signature="e#12299#12472#0" expanded="false" />
+                <element signature="e#12391#12423#0" expanded="false" />
+                <element signature="e#12456#12472#0" expanded="false" />
+                <element signature="e#12507#14234#0" expanded="false" />
+                <element signature="e#14129#14159#0" expanded="false" />
+                <element signature="e#14192#14234#0" expanded="false" />
+                <element signature="e#14272#14665#0" expanded="false" />
+                <element signature="e#14565#14665#0" expanded="false" />
+                <element signature="e#14700#15439#0" expanded="false" />
+                <element signature="e#15359#15378#0" expanded="false" />
+                <element signature="e#15404#15437#0" expanded="false" />
+                <element signature="e#15975#16102#0" expanded="false" />
+                <element signature="e#15975#15999#1" expanded="false" />
+                <element signature="e#16211#17120#0" expanded="false" />
+                <element signature="e#17160#18460#0" expanded="false" />
+                <element signature="e#18563#21026#0" expanded="false" />
+                <element signature="e#18886#19178#1" expanded="false" />
+                <element signature="e#20278#20313#0" expanded="false" />
+                <element signature="e#20346#20407#0" expanded="false" />
+                <element signature="e#20454#21026#0" expanded="false" />
+                <element signature="e#20548#20853#0" expanded="false" />
+                <element signature="e#20614#20747#0" expanded="false" />
+                <element signature="e#21067#21787#0" expanded="false" />
+                <element signature="e#21661#21694#0" expanded="false" />
+                <element signature="e#21727#21787#0" expanded="false" />
+                <element signature="e#21830#22271#0" expanded="false" />
+                <element signature="e#22070#22150#0" expanded="false" />
+                <element signature="e#22176#22271#0" expanded="false" />
+                <element signature="e#22314#23027#0" expanded="false" />
+                <element signature="e#22924#22968#0" expanded="false" />
+                <element signature="e#22994#23027#0" expanded="false" />
+                <element signature="e#23078#24733#0" expanded="false" />
+                <element signature="e#23346#23825#0" expanded="false" />
+                <element signature="e#24089#24229#0" expanded="false" />
+                <element signature="e#24630#24666#0" expanded="false" />
+                <element signature="e#24699#24733#0" expanded="false" />
+                <element signature="e#24782#25921#0" expanded="false" />
+                <element signature="e#25179#25271#0" expanded="false" />
+                <element signature="e#25756#25807#0" expanded="false" />
+                <element signature="e#25833#25921#0" expanded="false" />
+                <element signature="e#25955#26958#0" expanded="false" />
+                <element signature="e#26863#26894#0" expanded="false" />
+                <element signature="e#26927#26958#0" expanded="false" />
+                <element signature="e#26998#27824#0" expanded="false" />
+                <element signature="e#27634#27701#0" expanded="false" />
+                <element signature="e#27727#27824#0" expanded="false" />
+                <element signature="e#27864#28863#0" expanded="false" />
+                <element signature="e#28391#28519#0" expanded="false" />
+                <element signature="e#28552#28618#0" expanded="false" />
+                <element signature="e#28665#28863#0" expanded="false" />
+                <element signature="e#28909#29803#0" expanded="false" />
+                <element signature="e#29699#29733#0" expanded="false" />
+                <element signature="e#29766#29803#0" expanded="false" />
+                <element signature="e#29846#31916#0" expanded="false" />
+                <element signature="e#30003#30345#0" expanded="false" />
+                <element signature="e#30750#30801#0" expanded="false" />
+                <element signature="e#31441#31627#0" expanded="false" />
+                <element signature="e#31764#31810#0" expanded="false" />
+                <element signature="e#31836#31916#0" expanded="false" />
+                <element signature="e#31962#32733#0" expanded="false" />
+                <element signature="e#32589#32623#0" expanded="false" />
+                <element signature="e#32656#32733#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="redis测试.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/redis测试.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="25" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>*</find>
+      <find>print</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="F:/python/Lib/site-packages/rest_framework/views.py" />
+        <option value="F:/bandicam/day111 redis和微信和路飞购物/day111课上所有/s9day111/s2.py" />
+        <option value="$PROJECT_DIR$/api/views/course.py" />
+        <option value="$PROJECT_DIR$/api/serializers/course.py" />
+        <option value="$PROJECT_DIR$/api/views/test.py" />
+        <option value="$PROJECT_DIR$/luffy_django/urls.py" />
+        <option value="$PROJECT_DIR$/utils/response.py" />
+        <option value="$PROJECT_DIR$/utils/exception.py" />
+        <option value="$PROJECT_DIR$/x.py" />
+        <option value="$PROJECT_DIR$/redis测试（二）.py" />
+        <option value="$PROJECT_DIR$/api/admin.py" />
+        <option value="$PROJECT_DIR$/api/views/shoppingcar.py" />
+        <option value="$PROJECT_DIR$/utils/auth.py" />
+        <option value="$PROJECT_DIR$/luffy_django/settings.py" />
+        <option value="$PROJECT_DIR$/redis测试（三）.py" />
+        <option value="$PROJECT_DIR$/api/views/payment.py" />
+        <option value="$PROJECT_DIR$/api/models.py" />
+        <option value="$PROJECT_DIR$/api/urls.py" />
+        <option value="$PROJECT_DIR$/api/views/order.py" />
+        <option value="$PROJECT_DIR$/redis测试.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="luffy_django" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="luffy_django" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\wupeiqi\s9\luffy_django" />
+      <recent name="D:\untitled\基础知识\day107-course\luffy_django\api" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.redis测试">
+    <configuration default="false" name="redis测试（二）" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="luffy_django" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/redis测试（二）.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="s1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="F:/bandicam/day111 redis和微信和路飞购物/day111课上所有/s9day111" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="luffy_django" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:/bandicam/day111 redis和微信和路飞购物/day111课上所有/s9day111/s1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="s2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="F:/bandicam/day111 redis和微信和路飞购物/day111课上所有/s9day111" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="luffy_django" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:/bandicam/day111 redis和微信和路飞购物/day111课上所有/s9day111/s2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="x" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="luffy_django" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/x.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="redis测试" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="luffy_django" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/redis测试.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="luffy_django" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="luffy_django" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="luffy_django" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="luffy_django" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="luffy_django" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="luffy_django" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="luffy_django" type="Python.DjangoServer" factoryName="Django server">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="luffy_django.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="luffy_django" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Django server.luffy_django" />
+      <item index="1" class="java.lang.String" itemvalue="Python.redis测试（二）" />
+      <item index="2" class="java.lang.String" itemvalue="Python.s1" />
+      <item index="3" class="java.lang.String" itemvalue="Python.s2" />
+      <item index="4" class="java.lang.String" itemvalue="Python.x" />
+      <item index="5" class="java.lang.String" itemvalue="Python.redis测试" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Python.redis测试" />
+        <item index="1" class="java.lang.String" itemvalue="Python.x" />
+        <item index="2" class="java.lang.String" itemvalue="Python.s2" />
+        <item index="3" class="java.lang.String" itemvalue="Python.s1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ef54830-1b9f-4c8b-a495-04966123d607" name="Default" comment="" />
+      <created>1527758565954</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527758565954</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.181875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10727273" sideWeight="0.50323623" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.08375" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18122555" sideWeight="0.49676377" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32985657" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928804" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="manage.py@luffy_django" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8048359" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6386555" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18243903" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.100487806" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="manage.py@luffy_django" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/api/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1298">
+          <caret line="125" column="4" lean-forward="false" selection-start-line="125" selection-start-column="4" selection-end-line="126" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffy_django/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="880">
+          <caret line="40" column="52" lean-forward="false" selection-start-line="40" selection-start-column="52" selection-end-line="40" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffy_django/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="16" column="12" lean-forward="false" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2750">
+          <caret line="125" column="4" lean-forward="false" selection-start-line="125" selection-start-column="4" selection-end-line="126" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/views.py" />
+    <entry file="file://F:/python/Lib/site-packages/django/core/handlers/wsgi.py" />
+    <entry file="file://F:/python/Lib/site-packages/django/core/wsgi.py" />
+    <entry file="file://$PROJECT_DIR$/luffy_django/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/fa2ca4be/7c7169fe-2b9d-4f0b-9c1c-a8ef9654bcbf/main.auth_user" />
+    <entry file="das://table:/fa2ca4be/7c7169fe-2b9d-4f0b-9c1c-a8ef9654bcbf/main.api_teacher" />
+    <entry file="das://table:/fa2ca4be/7c7169fe-2b9d-4f0b-9c1c-a8ef9654bcbf/main.api_coursechapter" />
+    <entry file="file://F:/python/Lib/site-packages/django/conf/urls/__init__.py" />
+    <entry file="file://F:/python/Lib/site-packages/django/views/generic/base.py" />
+    <entry file="file://F:/python/Lib/site-packages/rest_framework/viewsets.py" />
+    <entry file="file://F:/python/Lib/site-packages/django/contrib/auth/mixins.py" />
+    <entry file="file://F:/python/Lib/site-packages/rest_framework/request.py" />
+    <entry file="file://F:/python/Lib/site-packages/rest_framework/views.py" />
+    <entry file="file://F:/bandicam/day111 redis和微信和路飞购物/day111课上所有/s9day111/s1.py" />
+    <entry file="file://F:/bandicam/day111 redis和微信和路飞购物/day111课上所有/s9day111/s2.py" />
+    <entry file="file://$PROJECT_DIR$/api/serializers/course.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/views/course.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="45" column="3" lean-forward="false" selection-start-line="45" selection-start-column="3" selection-end-line="61" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/python/Lib/json/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/api/views/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="48" column="37" lean-forward="true" selection-start-line="48" selection-start-column="37" selection-end-line="48" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages/django/core/cache/__init__.py" />
+    <entry file="das://table:/a4f26ecb/7c7169fe-2b9d-4f0b-9c1c-a8ef9654bcbf/main.api_userauthtoken" />
+    <entry file="das://table:/a4f26ecb/c3d83f46-cd28-4890-9ec8-fa294ce45491/main.api_userauthtoken" />
+    <entry file="das://table:/a4f26ecb/c3d83f46-cd28-4890-9ec8-fa294ce45491/main.api_course" />
+    <entry file="das://table:/a4f26ecb/c3d83f46-cd28-4890-9ec8-fa294ce45491/main.api_pricepolicy" />
+    <entry file="file://$PROJECT_DIR$/utils/exception.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/x.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffy_django/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/a4f26ecb/c3d83f46-cd28-4890-9ec8-fa294ce45491/main.api_couponrecord" />
+    <entry file="das://table:/a4f26ecb/c3d83f46-cd28-4890-9ec8-fa294ce45491/main.api_coupon" />
+    <entry file="file://$PROJECT_DIR$/api/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/auth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="14" column="30" lean-forward="false" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/rest_framework/request.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/rest_framework/views.py" />
+    <entry file="file://$PROJECT_DIR$/api/views/shoppingcar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="146" column="20" lean-forward="false" selection-start-line="146" selection-start-column="20" selection-end-line="149" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/redis/client.py" />
+    <entry file="file://$PROJECT_DIR$/utils/response.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/luffy_django/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3036">
+          <caret line="138" column="43" lean-forward="false" selection-start-line="138" selection-start-column="22" selection-end-line="138" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://table:/a4f26ecb/c3d83f46-cd28-4890-9ec8-fa294ce45491/main.api_account" />
+    <entry file="file://$PROJECT_DIR$/redis测试（二）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis测试（三）.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="11" column="18" lean-forward="false" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/views/payment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3328">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/views/order.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="45" lean-forward="false" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+          <folding>
+            <element signature="e#372#2713#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="555" column="0" lean-forward="true" selection-start-line="555" selection-start-column="0" selection-end-line="555" selection-end-column="0" />
+          <folding>
+            <element signature="e#373#567#0" expanded="false" />
+            <element signature="e#487#510#0" expanded="false" />
+            <element signature="e#536#567#0" expanded="false" />
+            <element signature="e#613#862#0" expanded="false" />
+            <element signature="e#782#805#0" expanded="false" />
+            <element signature="e#831#862#0" expanded="false" />
+            <element signature="e#903#1906#0" expanded="false" />
+            <element signature="e#1541#1580#0" expanded="false" />
+            <element signature="e#1834#1850#0" expanded="false" />
+            <element signature="e#1876#1906#0" expanded="false" />
+            <element signature="e#1942#2462#0" expanded="false" />
+            <element signature="e#2388#2404#0" expanded="false" />
+            <element signature="e#2430#2462#0" expanded="false" />
+            <element signature="e#2502#2881#0" expanded="false" />
+            <element signature="e#2773#2822#0" expanded="false" />
+            <element signature="e#2848#2881#0" expanded="false" />
+            <element signature="e#2916#4457#0" expanded="false" />
+            <element signature="e#4076#4093#0" expanded="false" />
+            <element signature="e#4334#4395#0" expanded="false" />
+            <element signature="e#4421#4457#0" expanded="false" />
+            <element signature="e#4497#5333#0" expanded="false" />
+            <element signature="e#5246#5271#0" expanded="false" />
+            <element signature="e#5297#5333#0" expanded="false" />
+            <element signature="e#5380#5891#0" expanded="false" />
+            <element signature="e#5712#5765#0" expanded="false" />
+            <element signature="e#5791#5891#0" expanded="false" />
+            <element signature="e#5933#6335#0" expanded="false" />
+            <element signature="e#6200#6224#0" expanded="false" />
+            <element signature="e#6250#6335#0" expanded="false" />
+            <element signature="e#6377#6920#0" expanded="false" />
+            <element signature="e#6746#6826#0" expanded="false" />
+            <element signature="e#6859#6920#0" expanded="false" />
+            <element signature="e#6962#7925#0" expanded="false" />
+            <element signature="e#7766#7850#0" expanded="false" />
+            <element signature="e#7883#7925#0" expanded="false" />
+            <element signature="e#7962#8932#0" expanded="false" />
+            <element signature="e#8773#8852#0" expanded="false" />
+            <element signature="e#8885#8930#0" expanded="false" />
+            <element signature="e#8932#8933#0" expanded="false" />
+            <element signature="e#11210#12188#0" expanded="false" />
+            <element signature="e#11491#11801#0" expanded="false" />
+            <element signature="e#11963#12067#0" expanded="false" />
+            <element signature="e#12100#12186#0" expanded="false" />
+            <element signature="e#12299#12472#0" expanded="false" />
+            <element signature="e#12391#12423#0" expanded="false" />
+            <element signature="e#12456#12472#0" expanded="false" />
+            <element signature="e#12507#14234#0" expanded="false" />
+            <element signature="e#14129#14159#0" expanded="false" />
+            <element signature="e#14192#14234#0" expanded="false" />
+            <element signature="e#14272#14665#0" expanded="false" />
+            <element signature="e#14565#14665#0" expanded="false" />
+            <element signature="e#14700#15439#0" expanded="false" />
+            <element signature="e#15359#15378#0" expanded="false" />
+            <element signature="e#15404#15437#0" expanded="false" />
+            <element signature="e#15975#16102#0" expanded="false" />
+            <element signature="e#15975#15999#1" expanded="false" />
+            <element signature="e#16211#17120#0" expanded="false" />
+            <element signature="e#17160#18460#0" expanded="false" />
+            <element signature="e#18563#21026#0" expanded="false" />
+            <element signature="e#18886#19178#1" expanded="false" />
+            <element signature="e#20278#20313#0" expanded="false" />
+            <element signature="e#20346#20407#0" expanded="false" />
+            <element signature="e#20454#21026#0" expanded="false" />
+            <element signature="e#20548#20853#0" expanded="false" />
+            <element signature="e#20614#20747#0" expanded="false" />
+            <element signature="e#21067#21787#0" expanded="false" />
+            <element signature="e#21661#21694#0" expanded="false" />
+            <element signature="e#21727#21787#0" expanded="false" />
+            <element signature="e#21830#22271#0" expanded="false" />
+            <element signature="e#22070#22150#0" expanded="false" />
+            <element signature="e#22176#22271#0" expanded="false" />
+            <element signature="e#22314#23027#0" expanded="false" />
+            <element signature="e#22924#22968#0" expanded="false" />
+            <element signature="e#22994#23027#0" expanded="false" />
+            <element signature="e#23078#24733#0" expanded="false" />
+            <element signature="e#23346#23825#0" expanded="false" />
+            <element signature="e#24089#24229#0" expanded="false" />
+            <element signature="e#24630#24666#0" expanded="false" />
+            <element signature="e#24699#24733#0" expanded="false" />
+            <element signature="e#24782#25921#0" expanded="false" />
+            <element signature="e#25179#25271#0" expanded="false" />
+            <element signature="e#25756#25807#0" expanded="false" />
+            <element signature="e#25833#25921#0" expanded="false" />
+            <element signature="e#25955#26958#0" expanded="false" />
+            <element signature="e#26863#26894#0" expanded="false" />
+            <element signature="e#26927#26958#0" expanded="false" />
+            <element signature="e#26998#27824#0" expanded="false" />
+            <element signature="e#27634#27701#0" expanded="false" />
+            <element signature="e#27727#27824#0" expanded="false" />
+            <element signature="e#27864#28863#0" expanded="false" />
+            <element signature="e#28391#28519#0" expanded="false" />
+            <element signature="e#28552#28618#0" expanded="false" />
+            <element signature="e#28665#28863#0" expanded="false" />
+            <element signature="e#28909#29803#0" expanded="false" />
+            <element signature="e#29699#29733#0" expanded="false" />
+            <element signature="e#29766#29803#0" expanded="false" />
+            <element signature="e#29846#31916#0" expanded="false" />
+            <element signature="e#30003#30345#0" expanded="false" />
+            <element signature="e#30750#30801#0" expanded="false" />
+            <element signature="e#31441#31627#0" expanded="false" />
+            <element signature="e#31764#31810#0" expanded="false" />
+            <element signature="e#31836#31916#0" expanded="false" />
+            <element signature="e#31962#32733#0" expanded="false" />
+            <element signature="e#32589#32623#0" expanded="false" />
+            <element signature="e#32656#32733#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis测试.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
