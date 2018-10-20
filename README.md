@@ -8,8 +8,5 @@
 ## djangorestframework	3.8.2
 ## geetest	3.2.1
 ## idna	2.7
-## pip	9.0.3
 ## pycparser	2.18
 ## pytz	2018.5
-## setuptools	39.0.1	
-## six	1.11.0	
